@@ -2,4 +2,4 @@
 
 Practicing using git and github.
 <br>
-This repositoruy contains files from my First Git Project.
+This repositoruy contains my First Project.
